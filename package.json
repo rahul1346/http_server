@@ -1,0 +1,19 @@
+{
+  "name": "simplerestserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "node-uuid": "^1.4.2",
+    "supertest": "^0.15.0"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "supertest": "^0.15.0"
+  }
+}

@@ -1,0 +1,10 @@
+data
+
+*.sublime-project
+*.sublime-workspace
+
+node_modules
+
+.vagrant
+Vagrantfile
+bootstrap.sh
